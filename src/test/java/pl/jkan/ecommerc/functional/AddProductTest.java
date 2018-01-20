@@ -3,7 +3,7 @@ package pl.jkan.ecommerc.functional;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import pl.jkan.ecommerc.sales.application.AddProductHandler;
+import pl.jkan.ecommerce.sales.application.AddProductHandler;
 import pl.jkan.ecommerce.sales.domain.basket.Basket;
 import pl.jkan.ecommerce.sales.domain.basket.InMemoryBasketRepository;
 import pl.jkan.ecommerce.sales.domain.basket.Product;

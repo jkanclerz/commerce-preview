@@ -1,4 +1,4 @@
-package pl.jkan.ecommerc.sales.application;
+package pl.jkan.ecommerce.sales.application;
 
 import pl.jkan.ecommerce.sales.domain.basket.Basket;
 import pl.jkan.ecommerce.sales.domain.basket.BasketRepository;
