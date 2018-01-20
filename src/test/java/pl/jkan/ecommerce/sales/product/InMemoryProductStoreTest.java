@@ -3,7 +3,7 @@ package pl.jkan.ecommerce.sales.product;
 import org.junit.Assert;
 import org.junit.Test;
 import pl.jkan.ecommerce.sales.domain.basket.Product;
-import pl.jkan.ecommerce.sales.domain.product.InMemoryProductStore;
+import pl.jkan.ecommerce.sales.infrastructure.InMemoryProductStore;
 import pl.jkan.ecommerce.sales.domain.product.ProductStore;
 
 public class InMemoryProductStoreTest {

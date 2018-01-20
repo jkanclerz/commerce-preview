@@ -1,4 +1,7 @@
-package pl.jkan.ecommerce.sales.domain.basket;
+package pl.jkan.ecommerce.sales.infrastructure;
+
+import pl.jkan.ecommerce.sales.domain.basket.Basket;
+import pl.jkan.ecommerce.sales.domain.basket.BasketRepository;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

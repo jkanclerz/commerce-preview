@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import pl.jkan.ecommerce.sales.domain.basket.Basket;
 import pl.jkan.ecommerce.sales.domain.basket.BasketRepository;
-import pl.jkan.ecommerce.sales.domain.basket.InMemoryBasketRepository;
+import pl.jkan.ecommerce.sales.infrastructure.InMemoryBasketRepository;
 
 public class InMemoryBasketRepositoryTest {
     @Test

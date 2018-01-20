@@ -1,6 +1,7 @@
-package pl.jkan.ecommerce.sales.domain.product;
+package pl.jkan.ecommerce.sales.infrastructure;
 
 import pl.jkan.ecommerce.sales.domain.basket.Product;
+import pl.jkan.ecommerce.sales.domain.product.ProductStore;
 
 import java.util.HashMap;
 import java.util.Map;
